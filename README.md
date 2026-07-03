@@ -46,5 +46,5 @@ Everything adjustable lives in `js/config.js`. Some fun ones to try:
 
 ## Deploying
 
-The whole project is static files — drag the folder onto Netlify,
-push it to GitHub Pages, or upload a zip to itch.io.
+Deployed on GitHub Page.
+
