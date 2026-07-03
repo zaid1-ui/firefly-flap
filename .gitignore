@@ -1,0 +1,20 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor settings
+.vscode/
+.idea/
+
+# Node (if you ever add a build step)
+node_modules/
+npm-debug.log*
+
+# Local env files
+.env
+.env.local
+
+# Build output (if you ever add a bundler)
+dist/
+build/
