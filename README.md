@@ -46,5 +46,6 @@ Everything adjustable lives in `js/config.js`. Some fun ones to try:
 
 ## Deploying
 
-Not Deployed yet.
+Deplyed on vercel (https://firefly-flap.vercel.app/).
+
 
