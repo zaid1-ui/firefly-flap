@@ -46,5 +46,5 @@ Everything adjustable lives in `js/config.js`. Some fun ones to try:
 
 ## Deploying
 
-Deployed on GitHub Page.
+Not Deployed yet.
 
